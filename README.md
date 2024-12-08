@@ -26,7 +26,7 @@ A modern web application that provides secure text encryption and decryption usi
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Sujeeth-infosec/Encrypt-with-JS]
+git clone https://github.com/Sujeeth-infosec/Encrypt-with-JS
 ```
 
 2. Install dependencies:
