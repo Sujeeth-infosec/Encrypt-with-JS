@@ -26,12 +26,12 @@ A modern web application that provides secure text encryption and decryption usi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/encryption-tool.git
+git clone [https://github.com/Sujeeth-infosec/Encrypt-with-JS]
 ```
 
 2. Install dependencies:
 ```bash
-cd encryption-tool
+cd Encrypt-with-JS
 npm install
 ```
 
@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@Cyborg_P7thon](https://twitter.com/CyborgP7) - sujeethkumararjun@gmail.com
 
-Project Link: [https://github.com/yourusername/encryption-tool](https://github.com/yourusername/encryption-tool)
+Project Link: [https://github.com/Sujeeth-infosec/Encrypt-with-JS]([https://github.com/Sujeeth-infosec/Encrypt-with-JS])
